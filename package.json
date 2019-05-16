@@ -13,15 +13,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LambdaSchool/Server-Testing.git"
+    "url": "git+https://github.com/LambdaSchool/webtesting-iv-challenge.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LambdaSchool/Server-Testing/issues"
+    "url": "https://github.com/LambdaSchool/webtesting-iv-challenge/issues"
   },
-  "homepage": "https://github.com/LambdaSchool/Server-Testing#readme",
+  "homepage": "https://github.com/LambdaSchool/webtesting-iv-challenge#readme",
   "devDependencies": {
     "cross-env": "^5.2.0",
     "jest": "^23.6.0",
